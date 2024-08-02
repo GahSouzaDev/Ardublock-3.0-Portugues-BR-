@@ -5,3 +5,7 @@ Para baixar todos os arquivos necessários, acesse os sites do criador abaixo.
 
 link Adrublock online: http://ardublock.ru/app/
 link Ardublock download: http://ardublock.ru/
+
+Desenvolvedor do ArduBlock
+Petrov Vitaly Nikolaevich
+http://ardublock.ru/avtor/
